@@ -1,3 +1,17 @@
+##Coursera: Exploratory Data Analysis
+### Project 1
+
+## Instruction for running the scripts
+
+This is the repository for the "Exploratory Data Analysis" first course project. 
+
+To run this script you need to do the following:
+
+- Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R) to your working directory;
+- Download the data from here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip;
+- Extract the data into your working directory;
+- Run the scripts
+
 ## Introduction
 
 This assignment uses data from
@@ -34,10 +48,6 @@ web site</a>:
 </ol>
 
 ## Loading the data
-
-
-
-
 
 When loading the dataset into R, please consider the following:
 
